@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"95cd5d765bca1f85","type":"group","x":-800,"y":880,"width":1640,"height":1820,"color":"3","label":"Capaian Pembelajaran Mata Kuliah (CPMK)"},
+		{"id":"56d1bc02927d4ab4","type":"text","text":"##### CPU-MK1\n\nMampu menjelaskan beberapa istilah umum dan menguraikan tahapan- tahapan proses sains data.","x":-400,"y":1000,"width":385,"height":180},
+		{"id":"0d538c56e6dede8d","type":"text","text":"##### CPU-MK2\n\nMampu menentukan jenis data dan melakukan prapemrosesan data (data preprocessing) menggunakan beberapa teknik sehingga menghasilkan data yang berkualitas.","x":44,"y":1000,"width":385,"height":180},
+		{"id":"fde71f0e9ec8a9b0","type":"text","text":"##### CPU-MK3\n\nMampu melakukan\nanalisis statistik deskriptif dan statistik inferensial, serta melakukan visualisasi data.","x":-640,"y":1320,"width":385,"height":180},
+		{"id":"9d1bd08e12e2602b","type":"text","text":"##### CPU-MK4\n\nMampu membuat kalimat rumusan masalah dengan benar dan mampu memperbaiki kekeliruan dalam analisis data.","x":-203,"y":1320,"width":385,"height":180},
+		{"id":"ab31abe6334b28d7","type":"text","text":"##### CPU-MKS\n\nMampu mengidentifikasi sumber kesalahan dalam proses analisis data dan memvisualisasikan ketidakpastian (uncertainty) data dengan memperatikan kaidah etika dan estetika.","x":237,"y":1320,"width":385,"height":180},
+		{"id":"6e63fb96eef05925","type":"text","text":"##### CPU-MK6\n\nMampu menentukan metode\nyang tepat dalam analisis regresi dan klasifikasi.","x":-395,"y":1620,"width":385,"height":180},
+		{"id":"2913ae88c08635d8","type":"text","text":"##### CPU-MK7\n\nMampu melakukan prediksi\nmenggunakan pendekatan algoritma dustering, Jaringan saraf tiruan, dan bahasa alami.","x":46,"y":1620,"width":385,"height":180},
+		{"id":"e45053d1511fb74c","type":"text","text":"##### CPU-MK8\n\nMampu menerapkan algoritma deep leaming untuk berbagal aplikasi.","x":-149,"y":1880,"width":385,"height":140},
+		{"id":"a974a17f62bd256f","type":"text","text":"#### Capaian Pembelajaran Mata Kuliah (CPMK)\n\nMampu menerapkan konsep dasar sains data, yakni merumuskan pertanyaan yang tepat, mengumpulkan data, melakukan data preprocessing, membangun hipotesis, mengolah data, menguji hipotesis, membuat visualisasi data, mengajukan solusi yang akurat dan presisi, serta menyajikannya dalam laporan yang sistematis dan atau mempresentasikannya.","x":-216,"y":2320,"width":520,"height":280,"color":"6"},
+		{"id":"705e27ab5b9cfcf7","type":"text","text":"##### CPU-MK9 \n\nMampu menjelaskan peran sains data dan Al dalam menyelesaikan permasalahan di berbagai bidang","x":-149,"y":2100,"width":385,"height":140}
+	],
+	"edges":[
+		{"id":"a0fcfdd52954f8de","fromNode":"56d1bc02927d4ab4","fromSide":"right","toNode":"0d538c56e6dede8d","toSide":"left"},
+		{"id":"69f76341b479c319","fromNode":"fde71f0e9ec8a9b0","fromSide":"right","toNode":"9d1bd08e12e2602b","toSide":"left"},
+		{"id":"01e9e0bf6970365d","fromNode":"9d1bd08e12e2602b","fromSide":"right","toNode":"ab31abe6334b28d7","toSide":"left"},
+		{"id":"559e41b0ef3bb197","fromNode":"ab31abe6334b28d7","fromSide":"right","toNode":"6e63fb96eef05925","toSide":"top"},
+		{"id":"fa90d8a961755553","fromNode":"0d538c56e6dede8d","fromSide":"right","toNode":"fde71f0e9ec8a9b0","toSide":"top"},
+		{"id":"0091782efe079713","fromNode":"6e63fb96eef05925","fromSide":"right","toNode":"2913ae88c08635d8","toSide":"left"},
+		{"id":"0a26953ad603adfb","fromNode":"2913ae88c08635d8","fromSide":"right","toNode":"e45053d1511fb74c","toSide":"top"},
+		{"id":"fbee2515a5c1a5b0","fromNode":"e45053d1511fb74c","fromSide":"bottom","toNode":"705e27ab5b9cfcf7","toSide":"top"},
+		{"id":"1733d393484e46d4","fromNode":"705e27ab5b9cfcf7","fromSide":"bottom","toNode":"a974a17f62bd256f","toSide":"top"}
+	]
+}
