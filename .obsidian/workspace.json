@@ -11,14 +11,12 @@
             "id": "5fedaf3efb111590",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Semester 2/Pengantar Probabilitas SATS4221/Modul 1/Kegiatan Belajar 2 - Himpunan Terhitung, Perkalian, dan Keluarga Himpunan.md",
-                "mode": "source",
-                "source": false
+                "file": "Semester 2/Pengantar Probabilitas SATS4221/Modul 1/Assets/Pasted image 20250210174933.png"
               },
-              "icon": "lucide-file",
-              "title": "Kegiatan Belajar 2 - Himpunan Terhitung, Perkalian, dan Keluarga Himpunan"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250210174933"
             }
           }
         ]
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 2/Pengantar Probabilitas SATS4221/Modul 1/Kegiatan Belajar 2 - Himpunan Terhitung, Perkalian, dan Keluarga Himpunan.md",
+                "file": "Semester 2/Pengantar Probabilitas SATS4221/Modul 1/Assets/Pasted image 20250210174933.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Kegiatan Belajar 2 - Himpunan Terhitung, Perkalian, dan Keluarga Himpunan"
+              "title": "Backlinks for Pasted image 20250210174933"
             }
           },
           {
@@ -113,12 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester 2/Pengantar Probabilitas SATS4221/Modul 1/Kegiatan Belajar 2 - Himpunan Terhitung, Perkalian, dan Keluarga Himpunan.md",
+                "file": "Semester 2/Pengantar Probabilitas SATS4221/Modul 1/Assets/Pasted image 20250210174933.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Kegiatan Belajar 2 - Himpunan Terhitung, Perkalian, dan Keluarga Himpunan"
+              "title": "Outgoing links from Pasted image 20250210174933"
             }
           },
           {
@@ -142,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 2/Pengantar Probabilitas SATS4221/Modul 1/Kegiatan Belajar 2 - Himpunan Terhitung, Perkalian, dan Keluarga Himpunan.md",
+                "file": "Semester 2/Pengantar Probabilitas SATS4221/Modul 1/Assets/Pasted image 20250210174933.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Kegiatan Belajar 2 - Himpunan Terhitung, Perkalian, dan Keluarga Himpunan"
+              "title": "Outline of Pasted image 20250210174933"
             }
           }
         ],
@@ -168,14 +166,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5fedaf3efb111590",
+  "active": "3283ebfc72ec7d76",
   "lastOpenFiles": [
-    "Pasted image 20250210175129.png",
-    "Pasted image 20250210175120.png",
-    "Pasted image 20250210174959.png",
-    "Pasted image 20250210174933.png",
-    "Semester 2/Pengantar Probabilitas SATS4221/Modul 1/Assets/Pasted image 20250210172852.png",
     "Semester 2/Pengantar Probabilitas SATS4221/Modul 1/Kegiatan Belajar 2 - Himpunan Terhitung, Perkalian, dan Keluarga Himpunan.md",
+    "Semester 2/Pengantar Probabilitas SATS4221/Modul 1/Assets/Pasted image 20250210175129.png",
+    "Semester 2/Pengantar Probabilitas SATS4221/Modul 1/Assets/Pasted image 20250210175120.png",
+    "Semester 2/Pengantar Probabilitas SATS4221/Modul 1/Assets/Pasted image 20250210174959.png",
+    "Semester 2/Pengantar Probabilitas SATS4221/Modul 1/Assets/Pasted image 20250210174933.png",
+    "Semester 2/Pengantar Probabilitas SATS4221/Modul 1/Assets/Pasted image 20250210172852.png",
     "Semester 2/Pengantar Probabilitas SATS4221/Modul 1/Modul 1 Teori Himpunan.md",
     "Semester 2/Pengantar Probabilitas SATS4221/Modul 1/Kegiatan Belajar 1 - Himpunan dan Operasinya.md",
     "Semester 2/Pengantar Probabilitas SATS4221/Modul 1/02. Operasi Himpunan.md",
@@ -184,7 +182,6 @@
     "Semester 2/Pengantar Probabilitas SATS4221/Modul 1/Assets/Pasted image 20250210174709.png",
     "Semester 2/Pengantar Probabilitas SATS4221/Modul 1/Assets/Pasted image 20250210174654.png",
     "Semester 2/Pengantar Probabilitas SATS4221/Modul 1/Assets/Pasted image 20250210174641.png",
-    "Semester 2/Pengantar Probabilitas SATS4221/Modul 1/Assets/Pasted image 20250210174613.png",
-    "Semester 2/Pengantar Probabilitas SATS4221/Modul 1/Assets/Pasted image 20250210174605.png"
+    "Semester 2/Pengantar Probabilitas SATS4221/Modul 1/Assets/Pasted image 20250210174613.png"
   ]
 }
