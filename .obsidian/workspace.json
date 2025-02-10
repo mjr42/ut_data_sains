@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "fb33589df7b60666",
+    "type": "split",
+    "children": [
+      {
+        "id": "63bab44304a72677",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fedaf3efb111590",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semester 2/Pengantar Probabilitas SATS4221/Modul 1/Kegiatan Belajar 2 - Himpunan Terhitung, Perkalian, dan Keluarga Himpunan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kegiatan Belajar 2 - Himpunan Terhitung, Perkalian, dan Keluarga Himpunan"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "874744992e12be1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1904d05e226c3bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3283ebfc72ec7d76",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a9ad1d73635bc294",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "38887e94f291f5e4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e2a6ab45ae133df3",
+    "type": "split",
+    "children": [
+      {
+        "id": "92794a21e85e5c05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "774eea4877e0eb78",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Semester 2/Pengantar Probabilitas SATS4221/Modul 1/Kegiatan Belajar 2 - Himpunan Terhitung, Perkalian, dan Keluarga Himpunan.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Kegiatan Belajar 2 - Himpunan Terhitung, Perkalian, dan Keluarga Himpunan"
+            }
+          },
+          {
+            "id": "f296c37c4b4a432c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Semester 2/Pengantar Probabilitas SATS4221/Modul 1/Kegiatan Belajar 2 - Himpunan Terhitung, Perkalian, dan Keluarga Himpunan.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Kegiatan Belajar 2 - Himpunan Terhitung, Perkalian, dan Keluarga Himpunan"
+            }
+          },
+          {
+            "id": "eb6317bac5c75a31",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "71325f562bb45d6e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Semester 2/Pengantar Probabilitas SATS4221/Modul 1/Kegiatan Belajar 2 - Himpunan Terhitung, Perkalian, dan Keluarga Himpunan.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Kegiatan Belajar 2 - Himpunan Terhitung, Perkalian, dan Keluarga Himpunan"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5fedaf3efb111590",
+  "lastOpenFiles": [
+    "Pasted image 20250210175129.png",
+    "Pasted image 20250210175120.png",
+    "Pasted image 20250210174959.png",
+    "Pasted image 20250210174933.png",
+    "Semester 2/Pengantar Probabilitas SATS4221/Modul 1/Assets/Pasted image 20250210172852.png",
+    "Semester 2/Pengantar Probabilitas SATS4221/Modul 1/Kegiatan Belajar 2 - Himpunan Terhitung, Perkalian, dan Keluarga Himpunan.md",
+    "Semester 2/Pengantar Probabilitas SATS4221/Modul 1/Modul 1 Teori Himpunan.md",
+    "Semester 2/Pengantar Probabilitas SATS4221/Modul 1/Kegiatan Belajar 1 - Himpunan dan Operasinya.md",
+    "Semester 2/Pengantar Probabilitas SATS4221/Modul 1/02. Operasi Himpunan.md",
+    "Semester 2/Pengantar Probabilitas SATS4221/Modul 1/01. Himpunan Bagian.md",
+    "Semester 2/Pengantar Probabilitas SATS4221/Modul 1/Assets/Pasted image 20250210174725.png",
+    "Semester 2/Pengantar Probabilitas SATS4221/Modul 1/Assets/Pasted image 20250210174709.png",
+    "Semester 2/Pengantar Probabilitas SATS4221/Modul 1/Assets/Pasted image 20250210174654.png",
+    "Semester 2/Pengantar Probabilitas SATS4221/Modul 1/Assets/Pasted image 20250210174641.png",
+    "Semester 2/Pengantar Probabilitas SATS4221/Modul 1/Assets/Pasted image 20250210174613.png",
+    "Semester 2/Pengantar Probabilitas SATS4221/Modul 1/Assets/Pasted image 20250210174605.png"
+  ]
+}
